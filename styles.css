@@ -20,5 +20,7 @@ h5 {
 
 button {
   border-radius: 60px;
-  font-size: 30;
+  font-size: 30px;
+  width: 30px;
+  height: 30px;
 }
