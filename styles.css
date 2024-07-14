@@ -28,3 +28,7 @@ h5 {
 body {
   zoom: 150%;
 }
+
+.big {
+  font-size: 50px;
+}
