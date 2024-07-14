@@ -17,3 +17,7 @@ h5 {
 .av {
   color: black;
 }
+
+button {
+  border-radius: 20px;
+}
