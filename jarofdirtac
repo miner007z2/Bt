@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="styles.css"/>
+  <title>JarOfDirt</title>
+</head>
+<body>
+  <center><h1>
+    Jar of dirt
+  </h1></center>
+  <p>The "Jar Of Dirt" Consists of Rum, Coke and Grenadine (Optional).</p>
+</body>
+</html>
